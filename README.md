@@ -1,2 +1,2 @@
 # BlueCar-Api
-Live : http://bluecar.cf/swagger/index.html
+Live : http://blueapi.cf/swagger/index.html
