@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueCar Api", "BlueCar Api\BlueCar Api.csproj", "{22853462-71E1-4E24-9267-2E6E0E3E82D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCar Api", "BlueCar Api\BlueCar Api.csproj", "{22853462-71E1-4E24-9267-2E6E0E3E82D8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueCar.Data", "BlueCar.Data\BlueCar.Data.csproj", "{EE9D7962-6448-4DD9-A67D-E5118BB3049A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCar.Data", "BlueCar.Data\BlueCar.Data.csproj", "{EE9D7962-6448-4DD9-A67D-E5118BB3049A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueCar.Engine", "BlueCar.Engine\BlueCar.Engine.csproj", "{54C0ED7B-E59F-4738-B3CA-48CB291AD356}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCar.Engine", "BlueCar.Engine\BlueCar.Engine.csproj", "{54C0ED7B-E59F-4738-B3CA-48CB291AD356}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueCar.Payments", "BlueCar.Payments\BlueCar.Payments.csproj", "{7DD38DBD-578E-4C83-9C0A-EF168463F52A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueCar.Payments", "BlueCar.Payments\BlueCar.Payments.csproj", "{7DD38DBD-578E-4C83-9C0A-EF168463F52A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
