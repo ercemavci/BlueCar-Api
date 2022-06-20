@@ -24,7 +24,7 @@ namespace BlueCar.Engine
             var AllCars = bluecarsDal.Get();
             var AllLocation = bluelocationDal.Get();
             var alisyeri = AllLocation.Where(x => x.locationId == Convert.ToInt32(form.alisyeri)).Single();
-            var donusyeri = AllLocation.Where(x => x.locationId == Convert.ToInt32(form.alisyeri)).Single();
+            var donusyeri = AllLocation.Where(x => x.locationId == Convert.ToInt32(form.donusyeri)).Single();
             foreach (var result in AllCars)
             {
                 list.Add(new ListClass
